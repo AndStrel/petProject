@@ -13,3 +13,4 @@ Fix bug
 Improve tests
 Add feature
 Fix bug
+Update docs
