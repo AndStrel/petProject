@@ -65,3 +65,4 @@ Update docs
 Update docs
 Add feature
 Improve tests
+Fix bug
