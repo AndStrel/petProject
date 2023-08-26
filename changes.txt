@@ -22,3 +22,4 @@ Refactor code
 Fix bug
 Fix bug
 Update docs
+Fix bug
