@@ -24,3 +24,4 @@ Fix bug
 Update docs
 Fix bug
 Improve tests
+Add feature
