@@ -4,3 +4,4 @@ Improve tests
 Refactor code
 Improve tests
 Update docs
+Fix bug
