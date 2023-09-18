@@ -6,3 +6,4 @@ Improve tests
 Update docs
 Fix bug
 Fix bug
+Refactor code
