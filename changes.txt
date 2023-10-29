@@ -35,3 +35,4 @@ Fix bug
 Refactor code
 Update docs
 Add feature
+Refactor code
