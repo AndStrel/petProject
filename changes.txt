@@ -48,3 +48,4 @@ Add feature
 Refactor code
 Improve tests
 Update docs
+Refactor code
