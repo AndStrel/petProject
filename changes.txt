@@ -47,3 +47,4 @@ Improve tests
 Add feature
 Refactor code
 Improve tests
+Update docs
