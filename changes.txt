@@ -49,3 +49,4 @@ Refactor code
 Improve tests
 Update docs
 Refactor code
+Fix bug
