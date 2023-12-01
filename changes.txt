@@ -52,3 +52,4 @@ Refactor code
 Fix bug
 Update docs
 Fix bug
+Improve tests
