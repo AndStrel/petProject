@@ -67,3 +67,4 @@ Refactor code
 Add feature
 Refactor code
 Fix bug
+Update docs
