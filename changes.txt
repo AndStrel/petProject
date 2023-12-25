@@ -68,3 +68,4 @@ Add feature
 Refactor code
 Fix bug
 Update docs
+Add feature
