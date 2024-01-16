@@ -82,3 +82,4 @@ Update docs
 Improve tests
 Improve tests
 Refactor code
+Fix bug
