@@ -85,3 +85,4 @@ Refactor code
 Fix bug
 Add feature
 Fix bug
+Update docs
