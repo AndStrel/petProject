@@ -86,3 +86,4 @@ Fix bug
 Add feature
 Fix bug
 Update docs
+Refactor code
