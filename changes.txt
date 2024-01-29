@@ -88,3 +88,4 @@ Fix bug
 Update docs
 Refactor code
 Add feature
+Improve tests
