@@ -89,3 +89,4 @@ Update docs
 Refactor code
 Add feature
 Improve tests
+Fix bug
